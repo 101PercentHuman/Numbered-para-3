@@ -77,3 +77,11 @@ This template's CSS is based on [[Template:Pline/styles.css]] by [[User:Calendul
 <references group="note">
 <ref group="note" name="once">Because of unabashed pride in [https://en.wikipedia.org/wiki/Australian%20English His Majesty's English], I've made this work when you use <code>colour</code> as the name for the parameter. In line with best practice for CSS, <code>color</code> also works and, perhaps unfortunately, takes precedence.</ref>
 </references>
+
+==See also==
+*[[Template:Pline]]
+
+<includeonly>
+[[Category:Templates that create an anchor point]]
+[[Category:Sidenotes templates]]
+</includeonly>
