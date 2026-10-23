@@ -1,0 +1,7 @@
+.numbered-para {
+    float: left;
+    text-align: right;
+    min-width: 2.5em;
+}
+
+/* Based on Pline/styles.css by CalendulaAsteraceae*/
