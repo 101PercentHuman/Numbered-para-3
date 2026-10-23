@@ -44,8 +44,6 @@ This repository is intended to maintain a version-controlled copy of the templat
 
 ## Licence
 
-Original contributions to this repository are licensed under the [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Original contributions to this repository are dedicated to the public domain under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/), to the extent permitted by law.
 
-You are free to share and adapt these contributions, including for commercial purposes, provided you give appropriate attribution, link to the licence, and indicate if changes were made.
-
-This licence does not automatically apply to third-party material or contributions from other authors. See the relevant source and attribution notices for details.
+This dedication does not apply to third-party material, including material derived from Template:Pline or its stylesheet. Such material remains subject to its applicable copyright and licence terms. See the attribution notices in this repository.
