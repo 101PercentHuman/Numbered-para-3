@@ -69,7 +69,7 @@ This template uses the following CSS:
 /* Based on Pline/styles.css by CalendulaAsteraceae*/
 </syntaxhighlight>
 
-You can override these rules using your personal CSS. The <code>margin</code>, <code>size</code>, <code>color</code> (or <code>colour</code>), <code>style</code>, and <code>weight</code> parameters control the corresponding inline styles. Other properties, such as <code>float</code>, <code>text-align</code>, and <code>min-width</code>, can be overridden through personal CSS.
+The <code>margin</code>, <code>size</code>, <code>color</code> (or <code>colour</code>), <code>style</code>, and <code>weight</code> parameters control the corresponding inline styles. Other properties, such as <code>float</code>, <code>text-align</code>, and <code>min-width</code>, can be overridden through personal CSS.
 
 This template's CSS is based on [[Template:Pline/styles.css]] by [[User:CalendulaAsteraceae|CalendulaAsteraceae]].
 
