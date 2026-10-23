@@ -44,9 +44,9 @@ You can actually use any character you want in this field, including letters, nu
 |-
 | <code>margin</code> || Sets the horizontal position of the paragraph number. Negative values move it further to the left, while less-negative or positive values move it to the right. || <code>-3em</code> || <code><nowiki>{{Numbered para 3|8500|margin=-3.5em}}</nowiki></code>
 |-
-| <code>color</code> or <code>colour</code> || Sets the colour of the paragraph number.
+| <code>color</code> or <code>colour</code>  <ref group="note" name="once" />|| Sets the colour of the paragraph number.
 By default, this is set to black, or <code>#000000</code>. You can use any valid CSS colour value like <code>black</code> or even RGB.
-|| <code>#000000</code> || <code><nowiki>{{Numbered para 3|8500|color=#2E8B57}}</nowiki></code> <ref group="note" name="once" />
+|| <code>#000000</code> || <code><nowiki>{{Numbered para 3|8500|color=#2E8B57}}</nowiki></code>
 |-
 | <code>style</code> || Sets the font style of the paragraph number. This accepts any valid CSS <code>font-style</code>, like <code>normal</code>, <code>italic</code>, or <code>oblique</code>.|| <code>normal</code> || <code><nowiki>{{Numbered para 3|8500|style=italic}}</nowiki></code>
 |-
