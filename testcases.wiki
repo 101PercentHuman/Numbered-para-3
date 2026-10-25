@@ -1,0 +1,89 @@
+{{testcases notice}}
+
+== Legal Paragraph Numbering ==
+{{collapse top|title=[[McGinn v Australian Information Commissioner (No 2) (2024, FCA)|McGinn v Australian Information Commissioner (No 2) (2024, FCA)]]}}
+
+{{collapse top|title=Source}}
+<pre><nowiki>
+{{dent|3em|0em|
+{{Np3|8|margin=-3.5em|size=100%}} Based on her email of 13 October 2024, I infer that the applicant has elected not to appear at the hearing of the two interlocutory applications she has filed.
+
+{{Np3|9|margin=-3.5em|size=100%}} I will deal with the interlocutory applications substantively.
+
+'''BACKGROUND'''
+
+{{Np3|10|margin=-3.5em|size=100%}} In ''Reasons 1'' (which should be read with these reasons) at [13]–[28] I set out the course of correspondence between the applicant and the Court following the first case management hearing on 2 September 2024. The following matters emerge from that correspondence.
+
+{{Np3|11|margin=-3.5em|size=100%}} On 2 September 2024, I declined to make an interim order suppressing the applicant's identity as a party in the proceeding. This decision was affirmed on 3 September 2024 after the applicant informed the Court that she was basing her application for an interim order on s 37 AI of the ''Federal Court of Australia Act 1976'' (Cth) (the '''Federal Court Act''').
+
+{{Np3|12|margin=-3.5em|size=100%}} Later, on 3 September 2024, the applicant applied for reasons for that decision based on s 13 of the ''Administrative Decisions (Judicial Review) Act 1977'' (Cth) (the '''AD(JR) Act'''). On 4 September 2024, the applicant was informed that the decision not to make an interim suppression order was not a decision to which s 13 of the AD(JR) Act applied. The applicant was also informed, however, that I would provide reasons for not making an interim suppression order when publishing my reasons in respect of the interlocutory application that the applicant was to bring seeking an order that her identity be suppressed.
+}}
+</nowiki></pre>
+{{collapse bottom}}
+
+{{collapse top|title=Output}}
+{{dent|3em|0em|
+{{Np3|8|margin=-3.5em|size=100%}} Based on her email of 13 October 2024, I infer that the applicant has elected not to appear at the hearing of the two interlocutory applications she has filed.
+
+{{Np3|9|margin=-3.5em|size=100%}} I will deal with the interlocutory applications substantively.
+
+'''BACKGROUND'''
+
+{{Np3|10|margin=-3.5em|size=100%}} In ''Reasons 1'' (which should be read with these reasons) at [13]–[28] I set out the course of correspondence between the applicant and the Court following the first case management hearing on 2 September 2024. The following matters emerge from that correspondence.
+
+{{Np3|11|margin=-3.5em|size=100%}} On 2 September 2024, I declined to make an interim order suppressing the applicant's identity as a party in the proceeding. This decision was affirmed on 3 September 2024 after the applicant informed the Court that she was basing her application for an interim order on s 37 AI of the ''Federal Court of Australia Act 1976'' (Cth) (the '''Federal Court Act''').
+
+{{Np3|12|margin=-3.5em|size=100%}} Later, on 3 September 2024, the applicant applied for reasons for that decision based on s 13 of the ''Administrative Decisions (Judicial Review) Act 1977'' (Cth) (the '''AD(JR) Act'''). On 4 September 2024, the applicant was informed that the decision not to make an interim suppression order was not a decision to which s 13 of the AD(JR) Act applied. The applicant was also informed, however, that I would provide reasons for not making an interim suppression order when publishing my reasons in respect of the interlocutory application that the applicant was to bring seeking an order that her identity be suppressed.
+}}
+{{collapse bottom}}
+{{collapse bottom}}
+
+{{collapse top|title=[[In the matter of an appeal by Gaye Alexandra Mary Luck|In the matter of an appeal by Gaye Alexandra Mary Luck]]}}
+{{collapse top|title=Source}}
+<pre><nowiki>
+{{dent|3em|0em|
+{{Np3|1|margin=-4em|size=100%}} McHUGH ACJ, GUMMOW AND HEYDON JJ. Ms Gaye Alexandra Mary Luck has filed an appeal against a decision of Gleeson CJ delivered on 30 November 2000. The notice of appeal is described as an ex parte appeal as of right. His Honour had refused to give Ms Luck leave to issue a writ of summons and statement of claim that had been the subject of a direction by Callinan J, made on 14 November 2000, under O 58 r 4(3) of the High Court Rules. The effect of the direction was that the Registrar could not issue the writ or statement of claim without the leave of a Justice.
+
+{{Np3|2|margin=-4em|size=100%}} {{ti/s|2em}} The writ of summons that the appellant sought to issue named 32 defendants including judges of the High Court, the Supreme Court of Victoria and the Federal Court of Australia, the Attorney-General of the Commonwealth, medical officers and an unnamed telephonist employed by the Federal Police. Chief Justice Gleeson held that the statement of claim disclosed no cause of action against any defendant, a holding with which we entirely agree. Not only does the writ and statement of claim fail to disclose any recognisable cause of action against any individual defendant, but they seek to join as defendants in one action many people who have nothing in common except that the applicant claims that each of them has tortured her.
+{{ti/e}}
+
+{{ul|Leave to appeal is required}}
+
+{{Np3|3|margin=-4em|size=100%}} {{ti/s|2em}} It is not necessary to discuss the merits of the claims in any detail because Ms Luck is seeking to appeal against an interlocutory order, a class of order that requires the grant of leave to appeal, and none had been granted. Section 34 of the ''Judiciary Act'' 1903 (Cth) provides:
+{{ti/e}}
+
+{{quote|
+"(1) The High Court shall, except as provided by this Act, have jurisdiction to hear and determine appeals from all judgments whatsoever of any Justice or Justices, exercising the original jurisdiction of the High Court whether in Court or Chambers.
+
+(2) An appeal shall not be brought without the leave of the High Court from an interlocutory judgment of a Justice or Justices exercising the original jurisdiction of the High Court whether in Court or Chambers."
+}}
+
+{{Np3|4|margin=-4em|size=100%}} {{ti/s|2em}} In making the order refusing leave to issue process, Gleeson CJ was exercising the original jurisdiction of the Court to control its own processes. The question then is whether the judgment from which Ms Luck has "appealed" is final or interlocutory. As McHugh, Kirby and Callinan JJ stated in ''Bienstein v''
+{{ti/e}}
+}}
+</nowiki></pre>
+{{collapse bottom}}
+
+{{collapse top|title=Output}}
+{{dent|3em|0em|
+{{Np3|1|margin=-4em|size=100%}} McHUGH ACJ, GUMMOW AND HEYDON JJ. Ms Gaye Alexandra Mary Luck has filed an appeal against a decision of Gleeson CJ delivered on 30 November 2000. The notice of appeal is described as an ex parte appeal as of right. His Honour had refused to give Ms Luck leave to issue a writ of summons and statement of claim that had been the subject of a direction by Callinan J, made on 14 November 2000, under O 58 r 4(3) of the High Court Rules. The effect of the direction was that the Registrar could not issue the writ or statement of claim without the leave of a Justice.
+
+{{Np3|2|margin=-4em|size=100%}} {{ti/s|2em}} The writ of summons that the appellant sought to issue named 32 defendants including judges of the High Court, the Supreme Court of Victoria and the Federal Court of Australia, the Attorney-General of the Commonwealth, medical officers and an unnamed telephonist employed by the Federal Police. Chief Justice Gleeson held that the statement of claim disclosed no cause of action against any defendant, a holding with which we entirely agree. Not only does the writ and statement of claim fail to disclose any recognisable cause of action against any individual defendant, but they seek to join as defendants in one action many people who have nothing in common except that the applicant claims that each of them has tortured her.
+{{ti/e}}
+
+{{ul|Leave to appeal is required}}
+
+{{Np3|3|margin=-4em|size=100%}} {{ti/s|2em}} It is not necessary to discuss the merits of the claims in any detail because Ms Luck is seeking to appeal against an interlocutory order, a class of order that requires the grant of leave to appeal, and none had been granted. Section 34 of the ''Judiciary Act'' 1903 (Cth) provides:
+{{ti/e}}
+
+{{quote|
+"(1) The High Court shall, except as provided by this Act, have jurisdiction to hear and determine appeals from all judgments whatsoever of any Justice or Justices, exercising the original jurisdiction of the High Court whether in Court or Chambers.
+
+(2) An appeal shall not be brought without the leave of the High Court from an interlocutory judgment of a Justice or Justices exercising the original jurisdiction of the High Court whether in Court or Chambers."
+}}
+
+{{Np3|4|margin=-4em|size=100%}} {{ti/s|2em}} In making the order refusing leave to issue process, Gleeson CJ was exercising the original jurisdiction of the Court to control its own processes. The question then is whether the judgment from which Ms Luck has "appealed" is final or interlocutory. As McHugh, Kirby and Callinan JJ stated in ''Bienstein v''
+{{ti/e}}
+}}
+{{collapse bottom}}
+{{collapse bottom}}

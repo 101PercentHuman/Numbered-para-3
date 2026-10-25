@@ -6,6 +6,8 @@ It is based on [[Template:Pline]], which is designed for line numbering in poems
 
 Like [[Template:Pline]], this template makes use of anchored text. For example, [[Template:Numbered para 3#para1]] will link to a particular line.
 
+The template can called using <code><nowiki>{{Numbered para 3}}</nowiki></code>. You can also use the shortcut <code><nowiki>{{Np3}}</nowiki></code>.
+
 == Usage ==
 Note that in the below example, the margin has been set as <code>-3.5em</code>, overriding the default <code>-3em</code> since it would have overlapped with the green border surrounding the example.
 {{doc example|
@@ -35,14 +37,27 @@ If left blank, the anchor ID will be generated using the format <code>paraN</cod
 || <code>paraN</code>|| <code><nowiki>{{Numbered para 3|8500|id=scary}}</nowiki></code>
 Using the example from the previous row, <code><nowiki>{{Numbered para 3|8500}}</nowiki></code> will have an anchor ID of <code>para8500</code>.
 |-
-| <code>dot</code>|| Sets the symbol appended to the paragraph number. By default, this is the full stop.
+| <code>left</code>|| Sets the symbol to the left of the paragraph number. By default, this is left blank.
 You can actually use any character you want in this field, including letters, numbers, or special characters.
-|| <code>.</code> || This is an example of appending a right bracket for numbering:
-<code><nowiki>{{Numbered para 3|8500|dot=)}}</nowiki></code>
+|| <code>(None)</code> || This is an example of adding a left bracket to the left of the paragraph number:
+<code><nowiki>{{Numbered para 3|8500|left=(}}</nowiki></code>
+|-
+| <code>right</code>|| Sets the symbol appended to the paragraph number (added to the right of the paragraph number). By default, this blank.
+You can actually use any character you want in this field, including letters, numbers, or special characters.
+|| <code>(None)</code> || This is an example of appending a right bracket for numbering:
+<code><nowiki>{{Numbered para 3|8500|right=)}}</nowiki></code>
+
+This is an example of having square brackets surround the paragraph number:
+
+<code><nowiki>{{Numbered para 3|8500|leftdot=[|rightdot=]}}</nowiki></code>
 |-
 | <code>size</code> || Sets the size of the paragraph number. This value accepts any valid CSS <code>font-size</code> value, including percentage, <code>em</code>,<code>rem</code>, or even pixels if you're fancy.|| <code>83%</code>|| <code><nowiki>{{Numbered para 3|8500|size=100%}}</nowiki></code>
 |-
 | <code>margin</code> || Sets the horizontal position of the paragraph number. Negative values move it further to the left, while less-negative or positive values move it to the right. || <code>-3em</code> || <code><nowiki>{{Numbered para 3|8500|margin=-3.5em}}</nowiki></code>
+|-
+| <code>textmargin</code> || Sets space to the right of the paragraph numbering and its symbols. 
+| <code>0</code> 
+| <code><nowiki>{{Numbered para 3|8500|textmargin=2em}}</nowiki></code>
 |-
 | <code>color</code> or <code>colour</code>  <ref group="note" name="once" />|| Sets the colour of the paragraph number.
 By default, this is set to black, or <code>#000000</code>. You can use any valid CSS colour value like <code>black</code> or even RGB.
@@ -82,6 +97,7 @@ This template's CSS is based on [[Template:Pline/styles.css]] by [[User:Calendul
 </references>
 
 <includeonly>
+[[Category:Formatting templates]]
 [[Category:Templates that create an anchor point]]
 [[Category:Sidenotes templates]]
 </includeonly>
