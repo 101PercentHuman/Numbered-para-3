@@ -44,13 +44,11 @@
 {{dent|3em|0em|
 {{Np3|1|margin=-4em|size=100%}} McHUGH ACJ, GUMMOW AND HEYDON JJ. Ms Gaye Alexandra Mary Luck has filed an appeal against a decision of Gleeson CJ delivered on 30 November 2000. The notice of appeal is described as an ex parte appeal as of right. His Honour had refused to give Ms Luck leave to issue a writ of summons and statement of claim that had been the subject of a direction by Callinan J, made on 14 November 2000, under O 58 r 4(3) of the High Court Rules. The effect of the direction was that the Registrar could not issue the writ or statement of claim without the leave of a Justice.
 
-{{Np3|2|margin=-4em|size=100%}} {{ti/s|2em}} The writ of summons that the appellant sought to issue named 32 defendants including judges of the High Court, the Supreme Court of Victoria and the Federal Court of Australia, the Attorney-General of the Commonwealth, medical officers and an unnamed telephonist employed by the Federal Police. Chief Justice Gleeson held that the statement of claim disclosed no cause of action against any defendant, a holding with which we entirely agree. Not only does the writ and statement of claim fail to disclose any recognisable cause of action against any individual defendant, but they seek to join as defendants in one action many people who have nothing in common except that the applicant claims that each of them has tortured her.
-{{ti/e}}
+{{Np3|2|margin=-4em|size=100%}} The writ of summons that the appellant sought to issue named 32 defendants including judges of the High Court, the Supreme Court of Victoria and the Federal Court of Australia, the Attorney-General of the Commonwealth, medical officers and an unnamed telephonist employed by the Federal Police. Chief Justice Gleeson held that the statement of claim disclosed no cause of action against any defendant, a holding with which we entirely agree. Not only does the writ and statement of claim fail to disclose any recognisable cause of action against any individual defendant, but they seek to join as defendants in one action many people who have nothing in common except that the applicant claims that each of them has tortured her.
 
 {{ul|Leave to appeal is required}}
 
-{{Np3|3|margin=-4em|size=100%}} {{ti/s|2em}} It is not necessary to discuss the merits of the claims in any detail because Ms Luck is seeking to appeal against an interlocutory order, a class of order that requires the grant of leave to appeal, and none had been granted. Section 34 of the ''Judiciary Act'' 1903 (Cth) provides:
-{{ti/e}}
+{{Np3|3|margin=-4em|size=100%}} It is not necessary to discuss the merits of the claims in any detail because Ms Luck is seeking to appeal against an interlocutory order, a class of order that requires the grant of leave to appeal, and none had been granted. Section 34 of the ''Judiciary Act'' 1903 (Cth) provides:
 
 {{quote|
 "(1) The High Court shall, except as provided by this Act, have jurisdiction to hear and determine appeals from all judgments whatsoever of any Justice or Justices, exercising the original jurisdiction of the High Court whether in Court or Chambers.
@@ -58,8 +56,7 @@
 (2) An appeal shall not be brought without the leave of the High Court from an interlocutory judgment of a Justice or Justices exercising the original jurisdiction of the High Court whether in Court or Chambers."
 }}
 
-{{Np3|4|margin=-4em|size=100%}} {{ti/s|2em}} In making the order refusing leave to issue process, Gleeson CJ was exercising the original jurisdiction of the Court to control its own processes. The question then is whether the judgment from which Ms Luck has "appealed" is final or interlocutory. As McHugh, Kirby and Callinan JJ stated in ''Bienstein v''
-{{ti/e}}
+{{Np3|4|margin=-4em|size=100%}} In making the order refusing leave to issue process, Gleeson CJ was exercising the original jurisdiction of the Court to control its own processes. The question then is whether the judgment from which Ms Luck has "appealed" is final or interlocutory. As McHugh, Kirby and Callinan JJ stated in ''Bienstein v''
 }}
 </nowiki></pre>
 {{collapse bottom}}
@@ -68,13 +65,11 @@
 {{dent|3em|0em|
 {{Np3|1|margin=-4em|size=100%}} McHUGH ACJ, GUMMOW AND HEYDON JJ. Ms Gaye Alexandra Mary Luck has filed an appeal against a decision of Gleeson CJ delivered on 30 November 2000. The notice of appeal is described as an ex parte appeal as of right. His Honour had refused to give Ms Luck leave to issue a writ of summons and statement of claim that had been the subject of a direction by Callinan J, made on 14 November 2000, under O 58 r 4(3) of the High Court Rules. The effect of the direction was that the Registrar could not issue the writ or statement of claim without the leave of a Justice.
 
-{{Np3|2|margin=-4em|size=100%}} {{ti/s|2em}} The writ of summons that the appellant sought to issue named 32 defendants including judges of the High Court, the Supreme Court of Victoria and the Federal Court of Australia, the Attorney-General of the Commonwealth, medical officers and an unnamed telephonist employed by the Federal Police. Chief Justice Gleeson held that the statement of claim disclosed no cause of action against any defendant, a holding with which we entirely agree. Not only does the writ and statement of claim fail to disclose any recognisable cause of action against any individual defendant, but they seek to join as defendants in one action many people who have nothing in common except that the applicant claims that each of them has tortured her.
-{{ti/e}}
+{{Np3|2|margin=-4em|size=100%}} The writ of summons that the appellant sought to issue named 32 defendants including judges of the High Court, the Supreme Court of Victoria and the Federal Court of Australia, the Attorney-General of the Commonwealth, medical officers and an unnamed telephonist employed by the Federal Police. Chief Justice Gleeson held that the statement of claim disclosed no cause of action against any defendant, a holding with which we entirely agree. Not only does the writ and statement of claim fail to disclose any recognisable cause of action against any individual defendant, but they seek to join as defendants in one action many people who have nothing in common except that the applicant claims that each of them has tortured her.
 
 {{ul|Leave to appeal is required}}
 
-{{Np3|3|margin=-4em|size=100%}} {{ti/s|2em}} It is not necessary to discuss the merits of the claims in any detail because Ms Luck is seeking to appeal against an interlocutory order, a class of order that requires the grant of leave to appeal, and none had been granted. Section 34 of the ''Judiciary Act'' 1903 (Cth) provides:
-{{ti/e}}
+{{Np3|3|margin=-4em|size=100%}} It is not necessary to discuss the merits of the claims in any detail because Ms Luck is seeking to appeal against an interlocutory order, a class of order that requires the grant of leave to appeal, and none had been granted. Section 34 of the ''Judiciary Act'' 1903 (Cth) provides:
 
 {{quote|
 "(1) The High Court shall, except as provided by this Act, have jurisdiction to hear and determine appeals from all judgments whatsoever of any Justice or Justices, exercising the original jurisdiction of the High Court whether in Court or Chambers.
@@ -82,8 +77,139 @@
 (2) An appeal shall not be brought without the leave of the High Court from an interlocutory judgment of a Justice or Justices exercising the original jurisdiction of the High Court whether in Court or Chambers."
 }}
 
-{{Np3|4|margin=-4em|size=100%}} {{ti/s|2em}} In making the order refusing leave to issue process, Gleeson CJ was exercising the original jurisdiction of the Court to control its own processes. The question then is whether the judgment from which Ms Luck has "appealed" is final or interlocutory. As McHugh, Kirby and Callinan JJ stated in ''Bienstein v''
-{{ti/e}}
+{{Np3|4|margin=-4em|size=100%}} In making the order refusing leave to issue process, Gleeson CJ was exercising the original jurisdiction of the Court to control its own processes. The question then is whether the judgment from which Ms Luck has "appealed" is final or interlocutory. As McHugh, Kirby and Callinan JJ stated in ''Bienstein v''
+}}
+{{collapse bottom}}
+{{collapse bottom}}
+
+== Poem Line Numbering ==
+{{collapse top|title=[[The Captain's Song|The Captain's Song]]}}
+
+{{collapse top|title=Source}}
+<pre><nowiki>
+
+{{dent|3em|0em|
+<poem>
+I care not what squeamish lovers may say,
+The maiden that best suits my mind
+Is the sweet girl that will meet me half way;
+And while she is free, be as kind.
+
+{{Np3|5|weight=bold|color=#2E8B57}} With her rich beauties I never am cloyed,
+Fresh pleasures I find at her side;
+I don't love her less because she's enjoyed
+By many another beside.
+
+Shall I try to describe all her merit,
+{{Np3|10|weight=bold|color=#2E8B57}} I feel that I'd never have done;
+She is brimful of sweetness and spirit,
+And sparkles with freedom and fun.
+
+It is bliss then to hold her and win her,
+She never proves peevish or coy;
+{{Np3|15|weight=bold|color=#2E8B57}} But the farther and deeper I'm in her
+The fuller she fills me with joy.
+
+She opens her thighs without fear or dread,
+She points to her sweet little crack,
+Its lips are so red, and all overspread
+{{Np3|20|weight=bold|color=#2E8B57}} With hair of the glossiest black.
+
+Reclined on her breast, and clasped in her arms,
+With her my soft moments I spend;
+And revel the more in her melting charms,
+Because they are shared with a friend. </poem>
+}}
+
+</nowiki></pre>
+{{collapse bottom}}
+
+{{collapse top|title=Output}}
+{{dent|3em|0em|
+<poem>
+I care not what squeamish lovers may say,
+The maiden that best suits my mind
+Is the sweet girl that will meet me half way;
+And while she is free, be as kind.
+
+{{Np3|5|weight=bold|color=#2E8B57}} With her rich beauties I never am cloyed,
+Fresh pleasures I find at her side;
+I don't love her less because she's enjoyed
+By many another beside.
+
+Shall I try to describe all her merit,
+{{Np3|10|weight=bold|color=#2E8B57}} I feel that I'd never have done;
+She is brimful of sweetness and spirit,
+And sparkles with freedom and fun.
+
+It is bliss then to hold her and win her,
+She never proves peevish or coy;
+{{Np3|15|weight=bold|color=#2E8B57}} But the farther and deeper I'm in her
+The fuller she fills me with joy.
+
+She opens her thighs without fear or dread,
+She points to her sweet little crack,
+Its lips are so red, and all overspread
+{{Np3|20|weight=bold|color=#2E8B57}} With hair of the glossiest black.
+
+Reclined on her breast, and clasped in her arms,
+With her my soft moments I spend;
+And revel the more in her melting charms,
+Because they are shared with a friend. </poem>
+}}
+{{collapse bottom}}
+{{collapse bottom}}
+
+{{collapse top|title=[[The_Pearl/Volume_1/The_Meeting_of_the_Waters|The Meeting of the Waters]]}}
+With this example, since <code>para5</code> and <code>para10</code> have already been used, custom anchor IDs have been generated, that being <code>para5a</code> and <code>para10a</code>. Test them out! 
+This is [[Template:Numbered_para_3/testcases#para5|testcases#para5]] and this is [[Template:Numbered_para_3/testcases#para5a|testcases#para5a]].
+
+{{collapse top|title=Source}}
+<pre><nowiki>
+{{dent|3em|0em|
+''A Parody on Moore's Melody''
+
+<poem>
+There is not in this wide world a valley so sweet,
+As that vale where the thighs of a pretty girl meet:
+Oh, the last ray of feeling and life must depart,
+Ere the bloom of that valley shall fade from my heart.
+
+{{Np3|5|weight=bold|margin=-4em|color=#2E8B57|left=[|right=]|id=para5a}} Yet it is not that Nature has shed o'er the scene,
+The purest of red, the most delicate skin,
+'Tis not the sweet smell of the genial hill;
+Ah, no! it is something more exquisite still.
+
+'Tis because the last favours of woman are there,
+{{Np3|10|weight=bold|margin=-4em|color=#2E8B57|left=[|right=]|id=para10a}} Which make every part of her body more dear.
+We feel how the charms of Nature improve,
+When we bathe in the spendings of her whom we love.
+</poem>
+}}
+</nowiki></pre>
+
+
+{{collapse bottom}}
+{{collapse top|title=Output}}
+{{dent|3em|0em|
+''A Parody on Moore's Melody''
+
+<poem>
+There is not in this wide world a valley so sweet,
+As that vale where the thighs of a pretty girl meet:
+Oh, the last ray of feeling and life must depart,
+Ere the bloom of that valley shall fade from my heart.
+
+{{Np3|5|weight=bold|margin=-4em|color=#2E8B57|left=[|right=]|id=para5a}} Yet it is not that Nature has shed o'er the scene,
+The purest of red, the most delicate skin,
+'Tis not the sweet smell of the genial hill;
+Ah, no! it is something more exquisite still.
+
+'Tis because the last favours of woman are there,
+{{Np3|10|weight=bold|margin=-4em|color=#2E8B57|left=[|right=]|id=para10a}} Which make every part of her body more dear.
+We feel how the charms of Nature improve,
+When we bathe in the spendings of her whom we love.
+</poem>
 }}
 {{collapse bottom}}
 {{collapse bottom}}
